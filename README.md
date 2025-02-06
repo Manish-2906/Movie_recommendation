@@ -44,3 +44,5 @@ This project **uses machine learning & API integration** to generate **tailored 
 
 
 ![Screenshot (159)](https://github.com/user-attachments/assets/23bf99e1-7123-4158-a924-bb5981814d43)
+![Screenshot (160)](https://github.com/user-attachments/assets/e5a4cf22-ad38-4178-8d57-e898eb3eee26)
+
